@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuan-Jen Lin, a Ph.D. candidate working with [Dr. Yen-Ting Hwang](https://homepage.ntu.edu.tw/~ythwang/Yen-Ting_Hwang/Welcome.html). I study large-scale climate dynamics and climate change. My research interests include (1) climate feedbacks and sensitivity (2) interactions between ocean, clouds, and radiation (3) ocean circulation under climate change.
+I am Yuan-Jen Lin, a Ph.D. candidate working with [Dr. Yen-Ting Hwang](https://scholar.google.com/citations?user=m73pWfsAAAAJ). I study large-scale climate dynamics and climate change. My research interests include (1) climate feedbacks and sensitivity (2) interactions between ocean, clouds, and radiation (3) ocean circulation under climate change.
 
 Currently I am a visiting scholar working with [Dr. Brian Rose](http://brian-rose.github.io/) on the driving mechanisms for AMOC weakening.
 
@@ -18,6 +18,6 @@ You can find my full CV here: [[Download CV]](https://yuanjenlin.github.io/files
 #### In preparation
 Yuan-Jen Lin, Brian E. J. Rose, and Yen-Ting Hwang. Mean state AMOC affects AMOC weakening through subsurface warming in the Labrador Sea.
 #### 2021
-Lin, Y.-J., Hwang, Y.-T., Lu, J., Liu, F., & Rose, B. E. J. (2021). The dominant contribution of Southern Ocean heat uptake to time-evolving radiative feedback in CESM. Geophysical Research Letters, 48, e2021GL093302. https://doi.org/10.1029/2021GL093302. [[Download Paper]](https://yuanjenlin.github.io/files/2021_Lin_etal.pdf)
+Lin, Y.-J., Hwang, Y.-T., Lu, J., Liu, F., & Rose, B. E. J. (2021). The dominant contribution of Southern Ocean heat uptake to time-evolving radiative feedback in CESM. Geophysical Research Letters, 48, e2021GL093302. [https://doi.org/10.1029/2021GL093302](https://doi.org/10.1029/2021GL093302). [[Download Paper]](https://yuanjenlin.github.io/files/2021_Lin_etal.pdf)
 #### 2019
-Lin, Y.-J., Hwang, Y.-T., Ceppi, P., & Gregory, J. M. (2019). Uncertainty in the Evolution of Climate Feedback Traced to the Strength of the Atlantic Meridional Overturning Circulation. Geophysical Research Letters, 46, 12331– 12339. https://doi.org/10.1029/2019GL083084. [[Download Paper]](https://yuanjenlin.github.io/files/2019_Lin_etal.pdf)
+Lin, Y.-J., Hwang, Y.-T., Ceppi, P., & Gregory, J. M. (2019). Uncertainty in the Evolution of Climate Feedback Traced to the Strength of the Atlantic Meridional Overturning Circulation. Geophysical Research Letters, 46, 12331– 12339. [https://doi.org/10.1029/2019GL083084](https://doi.org/10.1029/2019GL083084). [[Download Paper]](https://yuanjenlin.github.io/files/2019_Lin_etal.pdf)
