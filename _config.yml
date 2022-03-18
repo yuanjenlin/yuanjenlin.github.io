@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuan-Jen Lin"
   avatar           : "profile.png"
-  bio              : "PhD candidate from National Taiwan University. Visiting scholar in University at Albany, SUNY (2021-2022)."
+  bio              : "PhD candidate in National Taiwan University. Visiting scholar in University at Albany, SUNY (2021-2022). Study climate feedbacks, ocean circulation, and their interactions."
   location         : "Albany, NY"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yuanjenlin"
+  github           : "yuanjenlin"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/YuanJenLin1"
+  twitter          : "YuanJenLin1"
   vine             :
   weibo            :
   xing             :
