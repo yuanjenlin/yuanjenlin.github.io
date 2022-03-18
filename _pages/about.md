@@ -12,7 +12,6 @@ I am Yuan-Jen Lin, a Ph.D. candidate working with [Dr. Yen-Ting Hwang](https://s
 
 Currently I am a visiting scholar working with [Dr. Brian Rose](http://brian-rose.github.io/) on mechanisms for AMOC weakening.
 
-# You can find my full CV here: [[Download CV]](https://github.com/yuanjenlin/CV/raw/master/CV.pdf).
 You can find my full CV here: [[Download CV]](https://yuanjenlin.github.io/files/CV.pdf).
 
 ### Publications
