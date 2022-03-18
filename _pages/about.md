@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuan-Jen Lin, a Ph.D. candidate working with [Dr. Yen-Ting Hwang](https://scholar.google.com/citations?user=m73pWfsAAAAJ). I study large-scale climate dynamics and climate change. My research interests include (1) climate feedbacks and sensitivity (2) interactions between ocean, clouds, and radiation (3) ocean circulation under climate change.
+I am Yuan-Jen Lin, a Ph.D. candidate working with [Dr. Yen-Ting Hwang](https://homepage.ntu.edu.tw/~ythwang/Yen-Ting_Hwang/Welcome.html). I study large-scale climate dynamics and climate change. My research interests include (1) climate feedbacks and sensitivity (2) interactions between ocean, clouds, and radiation (3) ocean circulation under climate change.
 
-Currently I am a visiting scholar working with [Dr. Brian Rose](http://brian-rose.github.io/) on mechanisms for AMOC weakening.
+Currently I am a visiting scholar working with [Dr. Brian Rose](http://brian-rose.github.io/) on the driving mechanisms for AMOC weakening.
 
 You can find my full CV here: [[Download CV]](https://yuanjenlin.github.io/files/CV.pdf).
 
