@@ -1,7 +1,7 @@
 ---
 title: "(Lin et al. 2021) The Dominant Contribution of Southern Ocean Heat Uptake to Time-Evolving Radiative Feedback in CESM"
 collection: talks
-# type: "Talk"
+type: "Talk"
 permalink: /talks/20220222_ECS_symposium
 venue: "ECS & cloud feedback virtual symposia"
 date: 2022-02-22
