@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Uncertainty in the Evolution of Climate Feedback Traced to the Strength of the Atlantic Meridional Overturning Circulation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2019-10-22-paper-title-number-1
+excerpt: 'This paper talks about the CMIP5 inter-model spread of changes in climate feedback.'
+date: 2019-10-22
+venue: 'Geophysical Research Letters'
+paperurl: 'http://yuanjenlin.github.io/files/2019_Lin_etal.pdf'
+citation: 'Lin, Y.-J., Hwang, Y.-T., Ceppi, P., & Gregory, J. M. (2019). Uncertainty in the Evolution of Climate Feedback Traced to the Strength of the Atlantic Meridional Overturning Circulation. Geophysical Research Letters, 46, 12331– 12339. https://doi.org/10.1029/2019GL083084'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://yuanjenlin.github.io/files/2019_Lin_etal.pdf)
+
+Recommended citation: Lin, Y.-J., Hwang, Y.-T., Ceppi, P., & Gregory, J. M. (2019). Uncertainty in the Evolution of Climate Feedback Traced to the Strength of the Atlantic Meridional Overturning Circulation. Geophysical Research Letters, 46, 12331– 12339. https://doi.org/10.1029/2019GL083084
