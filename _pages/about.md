@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuan-Jen Lin, a Ph.D. candidate working with [Dr. Yen-Ting Hwang](https://scholar.google.com/citations?user=m73pWfsAAAAJ) in National Taiwan University. I study large-scale climate dynamics and climate change. My research interests include (1) climate feedbacks and sensitivity (2) interactions between ocean, clouds, and radiation (3) ocean circulation under climate change.
+I am Yuan-Jen Lin, a Ph.D. candidate working with [Dr. Yen-Ting Hwang](https://sites.google.com/view/climatentu/yen-ting-hwang?authuser=0) in National Taiwan University. I study large-scale climate dynamics and climate change. My research interests include (1) climate feedbacks and sensitivity (2) interactions between ocean, clouds, and radiation (3) ocean circulation under climate change.
 
 Currently I am a visiting scholar working with [Dr. Brian Rose](http://brian-rose.github.io/) in University at Albany, SUNY.
 
