@@ -16,7 +16,7 @@ You can find my full CV here: [[Download CV]](https://yuanjenlin.github.io/files
 
 ### Publications
 #### In preparation
-Yuan-Jen Lin, Brian E. J. Rose, and Yen-Ting Hwang. Mean state AMOC affects AMOC weakening through subsurface warming in the Labrador Sea. [[Download Poster for 2022 US AMOC Science Team Meeting]](https://yuanjenlin.github.io/files/2022_AMOC_meeting_poster.pdf)
+Yuan-Jen Lin, Brian E. J. Rose, and Yen-Ting Hwang. Mean state AMOC affects AMOC weakening through subsurface warming in the Labrador Sea. (submitted; J. Climate)[[Download Poster for 2022 US AMOC Science Team Meeting]](https://yuanjenlin.github.io/files/2022_AMOC_meeting_poster.pdf)
 #### 2021
 Lin, Y.-J., Hwang, Y.-T., Lu, J., Liu, F., & Rose, B. E. J. (2021). The dominant contribution of Southern Ocean heat uptake to time-evolving radiative feedback in CESM. Geophysical Research Letters, 48, e2021GL093302. [https://doi.org/10.1029/2021GL093302](https://doi.org/10.1029/2021GL093302). [[Download Paper]](https://yuanjenlin.github.io/files/2021_Lin_etal.pdf)
 #### 2019
