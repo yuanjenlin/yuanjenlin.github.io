@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuan-Jen Lin, a postdoctoral research scientist at Center for Climate Systems Research, 
-Columbia University.
+I am Yuan-Jen Lin, a postdoctoral research scientist at Center for Climate Systems Research, Columbia University / NASA Goddard Institute for Space Studies (GISS) in New York City.
 
 I study large-scale climate dynamics and climate change. My research interests include (1) climate feedbacks and sensitivity (2) interactions between ocean, clouds, and radiation (3) ocean circulation under climate change.
 
