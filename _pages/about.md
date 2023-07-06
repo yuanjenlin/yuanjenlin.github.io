@@ -15,8 +15,10 @@ I study large-scale climate dynamics and climate change. My research interests i
 You can find my full CV here: [[Download CV]](https://yuanjenlin.github.io/files/CV.pdf).
 
 ### Publications
+#### In prep/submitted/in review
+Lin, Y. J., Cesana, G., Cristian, P., Zelinka, M. D., & Armour, K. C. The relative importance of forced and unforced SST patterns in driving the time variations of low cloud feedback (in prep).
 #### 2023
-Yuan-Jen Lin, Brian E. J. Rose, and Yen-Ting Hwang. Mean state AMOC affects AMOC weakening through subsurface warming in the Labrador Sea. Journal of Climate, 2023. [https://doi.org/10.1175/JCLI-D-22-0464.1](https://doi.org/10.1175/JCLI-D-22-0464.1). [[Download Poster for 2022 US AMOC Science Team Meeting]](https://yuanjenlin.github.io/files/2022_AMOC_meeting_poster.pdf)
+Lin, Y. J., Rose, B. E., & Hwang, Y. T. (2023). Mean state AMOC affects AMOC weakening through subsurface warming in the Labrador Sea. Journal of Climate, 36(12), 3895-3915. [https://doi.org/10.1175/JCLI-D-22-0464.1](https://doi.org/10.1175/JCLI-D-22-0464.1). [[Download Poster for 2022 US AMOC Science Team Meeting]](https://yuanjenlin.github.io/files/2022_AMOC_meeting_poster.pdf)
 #### 2021
 Lin, Y.-J., Hwang, Y.-T., Lu, J., Liu, F., & Rose, B. E. J. (2021). The dominant contribution of Southern Ocean heat uptake to time-evolving radiative feedback in CESM. Geophysical Research Letters, 48, e2021GL093302. [https://doi.org/10.1029/2021GL093302](https://doi.org/10.1029/2021GL093302). [[Download Paper]](https://yuanjenlin.github.io/files/2021_Lin_etal.pdf)
 #### 2019
