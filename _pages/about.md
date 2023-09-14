@@ -16,7 +16,7 @@ You can find my full CV here: [[Download CV]](https://yuanjenlin.github.io/files
 
 ### Publications
 #### In prep/submitted/in review
-Lin, Y. J., Cesana, G., Cristian, P., Zelinka, M. D., & Armour, K. C. The relative importance of forced and unforced SST patterns in driving the time variations of low cloud feedback (in prep).
+Lin, Y. J., Cesana, G., Proistosecu, C., Zelinka, M. D., & Armour, K. C. The relative importance of forced and unforced SST patterns in driving the time variations of low cloud feedback (in prep).
 #### 2023
 Lin, Y. J., Rose, B. E., & Hwang, Y. T. (2023). Mean state AMOC affects AMOC weakening through subsurface warming in the Labrador Sea. Journal of Climate, 36(12), 3895-3915. [https://doi.org/10.1175/JCLI-D-22-0464.1](https://doi.org/10.1175/JCLI-D-22-0464.1). [[Download Poster for 2022 US AMOC Science Team Meeting]](https://yuanjenlin.github.io/files/2022_AMOC_meeting_poster.pdf)
 #### 2021
