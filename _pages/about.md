@@ -16,7 +16,7 @@ You can find my full CV here: [[Download CV]](https://yuanjenlin.github.io/files
 
 ### Publications
 #### In prep/submitted/in review
-Lin, Y.-J. and co-authors. SST Green's Function in NASA GISS ModelE3 (in prep).
+Lin, Y.-J. and co-authors. Intermodel spread of radiative feedback patterns traced to regional surface warming using NASA GISS ModelE3 Green’s Function (in prep).
 
 Lin, Y.-J., Cesana, G. V., Proistosescu, C., Zelinka, M. D., & Armour, K. C. The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback (in review, Journal of Climate). [[Preprint]](https://doi.org/10.22541/essoar.170560113.36214984/v1) [[Poster, 2023 CFMIP-GASS Meeting]](https://yuanjenlin.github.io/files/2023_CFMIP_meeting_poster.pdf)
 #### 2023
