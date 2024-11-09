@@ -14,7 +14,7 @@ I am Yuan-Jen Lin, a Postdoctoral Associate in the Department of Atmospheric and
 #### In prep/submitted/in review
 Lin, Y.-J., Cesana, G. V., Proistosescu, C., Dong, Y., & Marvel, K. Intermodel spread of radiative feedback patterns traced to regional surface warming using NASA GISS ModelE3 Green’s Function (in prep) [[Poster, 2024 CFMIP Meeting]](https://yuanjenlin.github.io/files/2024_CFMIP_meeting_poster.pdf).
 
-Lin, Y.-J., Cesana, G. V., Proistosescu, C., Zelinka, M. D., & Armour, K. C. The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback (in review, Journal of Climate). [[Preprint]](https://doi.org/10.22541/essoar.170560113.36214984/v1) [[Poster, 2023 CFMIP-GASS Meeting]](https://yuanjenlin.github.io/files/2023_CFMIP_meeting_poster.pdf)
+Lin, Y.-J., Cesana, G. V., Proistosescu, C., Zelinka, M. D., & Armour, K. C. The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback (accepted, Journal of Climate). [[Preprint]](https://doi.org/10.22541/essoar.170560113.36214984/v1) [[Poster, 2023 CFMIP-GASS Meeting]](https://yuanjenlin.github.io/files/2023_CFMIP_meeting_poster.pdf)
 #### 2023
 Lin, Y.-J., Rose, B. E. J., & Hwang, Y.-T. (2023). Mean state AMOC affects AMOC weakening through subsurface warming in the Labrador Sea. Journal of Climate, 36(12), 3895-3915. [https://doi.org/10.1175/JCLI-D-22-0464.1](https://doi.org/10.1175/JCLI-D-22-0464.1). [[Paper]](https://yuanjenlin.github.io/files/2023_Lin_etal.pdf) [[Code Availability]](https://github.com/yuanjenlin/Lin_etal_2022_JCLI) [[Poster, 2022 US AMOC Science Team Meeting]](https://yuanjenlin.github.io/files/2022_AMOC_meeting_poster.pdf)
 #### 2021
