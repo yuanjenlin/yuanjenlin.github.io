@@ -12,7 +12,7 @@ I am Yuan-Jen Lin, a Postdoctoral Associate in the Department of Atmospheric and
 
 ### Publications
 #### 2024
-Lin, Yuan-Jen, Grégory V. Cesana, Cristian Proistosescu, Mark D. Zelinka, and Kyle C. Armour. "The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback." Journal of Climate (2024). [https://doi.org/10.1175/JCLI-D-24-0014.1](https://doi.org/10.1175/JCLI-D-24-0014.1). [[Poster, 2023 CFMIP-GASS Meeting]](https://yuanjenlin.github.io/files/2023_CFMIP_meeting_poster.pdf)
+Lin, Yuan-Jen, Grégory V. Cesana, Cristian Proistosescu, Mark D. Zelinka, and Kyle C. Armour. "The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback." Journal of Climate (2024). [https://doi.org/10.1175/JCLI-D-24-0014.1](https://doi.org/10.1175/JCLI-D-24-0014.1). [[Poster, 2024 AGU Annual Meeting]](https://yuanjenlin.github.io/files/2024_AGU_meeting_poster.pdf)
 #### 2023
 Lin, Yuan-Jen, Brian EJ Rose, and Yen-Ting Hwang. "Mean state AMOC affects AMOC weakening through subsurface warming in the Labrador Sea." Journal of Climate 36, no. 12 (2023): 3895-3915. [https://doi.org/10.1175/JCLI-D-22-0464.1](https://doi.org/10.1175/JCLI-D-22-0464.1). [[Paper]](https://yuanjenlin.github.io/files/2023_Lin_etal.pdf) [[Code Availability]](https://github.com/yuanjenlin/Lin_etal_2022_JCLI) [[Poster, 2022 US AMOC Science Team Meeting]](https://yuanjenlin.github.io/files/2022_AMOC_meeting_poster.pdf)
 #### 2021
