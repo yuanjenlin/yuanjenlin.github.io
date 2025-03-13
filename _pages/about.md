@@ -12,7 +12,7 @@ I am Yuan-Jen Lin, a Postdoctoral Associate in the Department of Atmospheric and
 
 For more information, please see my full CV: [[View CV]](https://yuanjenlin.github.io/files/CV.pdf).
 
-![My research Scope](files/website_research_scope.pdf)
+![My research scope](https://github.com/user-attachments/files/19219409/website_research_scope.pdf?raw=true)
 
 ### Publications
 #### 2025
