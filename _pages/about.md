@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuan-Jen Lin, a Postdoctoral Associate in the Department of Atmospheric and Oceanic Sciences, University of Colorado Boulder. I study large-scale climate dynamics (air-sea interaction, climate feedback, etc.) and oceanography. For more information, please see my full CV: [[View CV]](https://yuanjenlin.github.io/files/CV.pdf).
+I am Yuan-Jen Lin, a Postdoctoral Associate in the Department of Atmospheric and Oceanic Sciences, University of Colorado Boulder. I study large-scale climate dynamics (air-sea interaction, climate feedback, etc.) and oceanography. 
 
+For more information, please see my full CV: [[View CV]](https://yuanjenlin.github.io/files/CV.pdf).
 
+![My research Scope](files/website_research_scope.pdf)
 
 ### Publications
 #### 2025
@@ -23,4 +25,5 @@ Lin, Yuan‐Jen, Yen‐Ting Hwang, Jian Lu, Fukai Liu, and Brian EJ Rose. "The d
 Lin, Yuan‐Jen, Yen‐Ting Hwang, Paulo Ceppi, and Jonathan M. Gregory. "Uncertainty in the evolution of climate feedback traced to the strength of the Atlantic meridional overturning circulation." Geophysical Research Letters 46, no. 21 (2019): 12331-12339. [https://doi.org/10.1029/2019GL083084](https://doi.org/10.1029/2019GL083084). [[Paper]](https://yuanjenlin.github.io/files/2019_Lin_etal.pdf)
 #### In prep/submitted/in review
 Lin, Yuan‐Jen, Grégory V. Cesana, Cristian Proistosescu, Yue Dong, and Kate Marvel. Intermodel spread of radiative feedback patterns traced to regional surface warming using NASA GISS ModelE3 Green’s Function (in prep) [[Poster, 2024 CFMIP Meeting]](https://yuanjenlin.github.io/files/2024_CFMIP_meeting_poster.pdf).
+
 Lin, Yuan‐Jen, Aneesh Subramanian, Kristopher B Karnauskas, Charlotte A DeMott, Janet Sprintall, and Rui Sun. Air-sea transition zone processes driving barrier layer mean state and climate variability (in prep).
