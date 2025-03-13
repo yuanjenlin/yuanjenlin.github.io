@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuan-Jen Lin, a Postdoctoral Associate in the Department of Atmospheric and Oceanic Sciences, University of Colorado Boulder. My research focuses on large-scale climate dynamics and climate change. For more information, please see my full CV: [[View CV]](https://yuanjenlin.github.io/files/CV.pdf).
+I am Yuan-Jen Lin, a Postdoctoral Associate in the Department of Atmospheric and Oceanic Sciences, University of Colorado Boulder. I study large-scale climate dynamics (air-sea interaction, climate feedback, etc.) and oceanography. For more information, please see my full CV: [[View CV]](https://yuanjenlin.github.io/files/CV.pdf).
+
+
 
 ### Publications
-#### 2024
-Lin, Yuan-Jen, Grégory V. Cesana, Cristian Proistosescu, Mark D. Zelinka, and Kyle C. Armour. "The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback." Journal of Climate (2024). [https://doi.org/10.1175/JCLI-D-24-0014.1](https://doi.org/10.1175/JCLI-D-24-0014.1). [[Poster, 2024 AGU Annual Meeting]](https://yuanjenlin.github.io/files/2024_AGU_meeting_poster.pdf)
+#### 2025
+Lin, Yuan-Jen, Grégory V. Cesana, Cristian Proistosescu, Mark D. Zelinka, and Kyle C. Armour. "The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback." Journal of Climate 38, no. 2 (2025): 513-529. [https://doi.org/10.1175/JCLI-D-24-0014.1](https://doi.org/10.1175/JCLI-D-24-0014.1). [[Poster, 2024 AGU Annual Meeting]](https://yuanjenlin.github.io/files/2024_AGU_meeting_poster.pdf)
 #### 2023
 Lin, Yuan-Jen, Brian EJ Rose, and Yen-Ting Hwang. "Mean state AMOC affects AMOC weakening through subsurface warming in the Labrador Sea." Journal of Climate 36, no. 12 (2023): 3895-3915. [https://doi.org/10.1175/JCLI-D-22-0464.1](https://doi.org/10.1175/JCLI-D-22-0464.1). [[Paper]](https://yuanjenlin.github.io/files/2023_Lin_etal.pdf) [[Code Availability]](https://github.com/yuanjenlin/Lin_etal_2022_JCLI) [[Poster, 2022 US AMOC Science Team Meeting]](https://yuanjenlin.github.io/files/2022_AMOC_meeting_poster.pdf)
 #### 2021
@@ -20,4 +22,5 @@ Lin, Yuan‐Jen, Yen‐Ting Hwang, Jian Lu, Fukai Liu, and Brian EJ Rose. "The d
 #### 2019
 Lin, Yuan‐Jen, Yen‐Ting Hwang, Paulo Ceppi, and Jonathan M. Gregory. "Uncertainty in the evolution of climate feedback traced to the strength of the Atlantic meridional overturning circulation." Geophysical Research Letters 46, no. 21 (2019): 12331-12339. [https://doi.org/10.1029/2019GL083084](https://doi.org/10.1029/2019GL083084). [[Paper]](https://yuanjenlin.github.io/files/2019_Lin_etal.pdf)
 #### In prep/submitted/in review
-Lin, Y.-J., Cesana, G. V., Proistosescu, C., Dong, Y., & Marvel, K. Intermodel spread of radiative feedback patterns traced to regional surface warming using NASA GISS ModelE3 Green’s Function (in prep) [[Poster, 2024 CFMIP Meeting]](https://yuanjenlin.github.io/files/2024_CFMIP_meeting_poster.pdf).
+Lin, Yuan‐Jen, Grégory V. Cesana, Cristian Proistosescu, Yue Dong, and Kate Marvel. Intermodel spread of radiative feedback patterns traced to regional surface warming using NASA GISS ModelE3 Green’s Function (in prep) [[Poster, 2024 CFMIP Meeting]](https://yuanjenlin.github.io/files/2024_CFMIP_meeting_poster.pdf).
+Lin, Yuan‐Jen, Aneesh Subramanian, Kristopher B Karnauskas, Charlotte A DeMott, Janet Sprintall, and Rui Sun. Air-sea transition zone processes driving barrier layer mean state and climate variability (in prep).
