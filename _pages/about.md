@@ -10,7 +10,7 @@ redirect_from:
 
 I am Yuan-Jen Lin, a Postdoctoral Associate in the Department of Atmospheric and Oceanic Sciences, University of Colorado Boulder. I study large-scale climate dynamics (air-sea interaction, climate feedback, etc.) and oceanography. 
 
-For more information, please see my full CV: [[View CV (last updated: April 2025)]](https://yuanjenlin.github.io/files/CV.pdf).
+For more information, please see my full CV: [[View CV (last updated: June 2025)]](https://yuanjenlin.github.io/files/CV.pdf).
 
 ### Research Scope
 ![Research Scope](./files/website_research_scope.png)
@@ -28,6 +28,8 @@ Lin, Yuan‐Jen, Yen‐Ting Hwang, Paulo Ceppi, and Jonathan M. Gregory. "Uncert
 Lin, Yuan‐Jen, Grégory V. Cesana, Cristian Proistosescu, Yue Dong, and Kate Marvel. Intermodel spread of radiative feedback patterns traced to regional surface warming using NASA GISS ModelE3 Green’s Function (in prep). [[Poster, 2024 CFMIP Meeting]](https://yuanjenlin.github.io/files/2024_CFMIP_meeting_poster.pdf)
 
 Lin, Yuan‐Jen, Aneesh Subramanian, Kristopher B Karnauskas, Charlotte A DeMott, Janet Sprintall, and Rui Sun. Air-sea transition zone processes driving barrier layer mean state and climate variability (in prep). [[Poster, 2024 AGU Annual Meeting]](https://yuanjenlin.github.io/files/2024_AGU_meeting_poster_2.pdf)
+
+Cesana, Grégory V. and co-authors, including Lin, Yuan-Jen. “Greater Supercooled Cloud Proportion, Less Warming: A Challenge to the Cloud Phase Feedback Consensus.”
 
 Tam, Rachel Yuen Sum and co-authors, including Lin, Yuan-Jen. “Meteorological drivers of the low-cloud radiative feedback pattern effect and its uncertainty.”
 
