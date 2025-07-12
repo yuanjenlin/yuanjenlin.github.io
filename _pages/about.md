@@ -10,7 +10,7 @@ redirect_from:
 
 I am Yuan-Jen Lin, a Postdoctoral Associate in the Department of Atmospheric and Oceanic Sciences, University of Colorado Boulder. I study large-scale climate dynamics (air-sea interaction, climate feedback, etc.) and oceanography. 
 
-For more information, please see my full CV: [[View CV (last updated: June 2025)]](https://yuanjenlin.github.io/files/CV.pdf).
+For more information, please see my full CV: [[View CV (last updated: July 2025)]](https://yuanjenlin.github.io/files/CV.pdf).
 
 ### Research Scope
 ![Research Scope](./files/website_research_scope.png)
@@ -24,13 +24,13 @@ Lin, Yuan-Jen, Brian EJ Rose, and Yen-Ting Hwang. "Mean state AMOC affects AMOC 
 Lin, Yuan‐Jen, Yen‐Ting Hwang, Jian Lu, Fukai Liu, and Brian EJ Rose. "The dominant contribution of Southern Ocean heat uptake to time‐evolving radiative feedback in CESM." Geophysical Research Letters 48, no. 9 (2021): e2021GL093302. [https://doi.org/10.1029/2021GL093302](https://doi.org/10.1029/2021GL093302). [[Paper]](https://yuanjenlin.github.io/files/2021_Lin_etal.pdf) [[Data Availability]](https://zenodo.org/records/4588073) [[Talk, 15th ECS symposium]](https://sites.google.com/tamu.edu/ecs-symposium/event15)
 #### 2019
 Lin, Yuan‐Jen, Yen‐Ting Hwang, Paulo Ceppi, and Jonathan M. Gregory. "Uncertainty in the evolution of climate feedback traced to the strength of the Atlantic meridional overturning circulation." Geophysical Research Letters 46, no. 21 (2019): 12331-12339. [https://doi.org/10.1029/2019GL083084](https://doi.org/10.1029/2019GL083084). [[Paper]](https://yuanjenlin.github.io/files/2019_Lin_etal.pdf)
-#### In prep/submitted/in review
-Lin, Yuan‐Jen, Grégory V. Cesana, Cristian Proistosescu, Yue Dong, and Kate Marvel. Intermodel spread of radiative feedback patterns traced to regional surface warming using NASA GISS ModelE3 Green’s Function (in prep). [[Poster, 2024 CFMIP Meeting]](https://yuanjenlin.github.io/files/2024_CFMIP_meeting_poster.pdf)
+#### Submitted
+Lin, Yuan‐Jen, Aneesh C Subramanian, Kristopher B Karnauskas, Charlotte A DeMott, Janet Sprintall, and Rui Sun. "Salinity-driven barrier layer dynamics in the equatorial Pacific: an observational and CMIP6 analysis." (submitted to Journal of Climate) [[Poster, 2024 AGU Annual Meeting]](https://yuanjenlin.github.io/files/2024_AGU_meeting_poster_2.pdf)
 
-Lin, Yuan‐Jen, Aneesh Subramanian, Kristopher B Karnauskas, Charlotte A DeMott, Janet Sprintall, and Rui Sun. Air-sea transition zone processes driving barrier layer mean state and climate variability (in prep). [[Poster, 2024 AGU Annual Meeting]](https://yuanjenlin.github.io/files/2024_AGU_meeting_poster_2.pdf)
+Tam, Rachel Yuen Sum, Timothy A. Myers, Mark D. Zelinka, Cristian Proistosescu, Yuan-Jen Lin, and Kate Marvel. "Meteorological drivers of the low-cloud radiative feedback pattern effect and its uncertainty." (submitted to Atmospheric Chemistry and Physics)
+#### In prep.
+Lin, Yuan‐Jen, Grégory V. Cesana, Cristian Proistosescu, Yue Dong, and Kate Marvel. "Intermodel spread of radiative feedback patterns traced to regional surface warming using NASA GISS ModelE3 Green’s Function." [[Poster, 2024 CFMIP Meeting]](https://yuanjenlin.github.io/files/2024_CFMIP_meeting_poster.pdf)
 
-Cesana, Grégory V. and co-authors, including Lin, Yuan-Jen. “Greater Supercooled Cloud Proportion, Less Warming: A Challenge to the Cloud Phase Feedback Consensus.”
+Cesana, Grégory V. and co-authors, including Yuan-Jen Lin. "Greater Supercooled Cloud Proportion, Less Warming: A Challenge to the Cloud Phase Feedback Consensus."
 
-Tam, Rachel Yuen Sum and co-authors, including Lin, Yuan-Jen. “Meteorological drivers of the low-cloud radiative feedback pattern effect and its uncertainty.”
-
-Bloch-Johnson, Jonah and co-authors, including Lin, Yuan-Jen. “Green’s Function Model Intercomparison Project (GFMIP) Results: A First Look.”
+Bloch-Johnson, Jonah and co-authors, including Yuan-Jen Lin. "Green’s Function Model Intercomparison Project (GFMIP) Results: A First Look."
