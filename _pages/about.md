@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuan-Jen Lin, a Postdoctoral Associate in the Department of Atmospheric and Oceanic Sciences, University of Colorado Boulder. I study large-scale climate dynamics (air-sea interaction, climate feedback, etc.) and oceanography. 
+I am currently a postdoctoral associate in the Department of Atmospheric and Oceanic Sciences, University of Colorado Boulder working with Aneesh Subramanian and Kristopher Karnauskas. I study air-sea interaction, oceanography, climate dynamics using observations and climate models of varying complexity (see my research scope below). Before coming to CU Boulder, I was a postdoctoral researcher at NASA GISS/Columbia University, where I led the GISS ModelE3 SST Green’s Function and studied cloud radiative feedback. I completed my PhD in Atmospheric Sciences at National Taiwan University with Yen-Ting Hwang and was a visiting PhD student at SUNY Albany for one year working with Brian Rose. During my PhD, I investigated how the ocean modulates the time evolution of climate feedback and the physical mechanisms driving changes in the Atlantic Meridional Overturning Circulation under a warmer climate.
 
 For more information, please see my full CV: [[View CV (last updated: Oct 2025)]](https://yuanjenlin.github.io/files/CV.pdf).
 
