@@ -20,8 +20,8 @@ For more information, please see my full CV: [[View CV (last updated: Jan 2026)]
 #### Under review
 Lin, Yuan-Jen, Aneesh C Subramanian, Kristopher B Karnauskas, Charlotte A DeMott, Janet Sprintall, and Rui Sun. "Salinity-driven barrier layer dynamics in the equatorial Pacific." Manuscript under review for Journal of Climate. [[Poster, 2025 AGU Annual Meeting]](https://yuanjenlin.github.io/files/2025_AGU_meeting_poster.pdf)
 
-Tam, Rachel Yuen Sum, Timothy A. Myers, Mark D. Zelinka, Cristian Proistosescu, Yuan-Jen Lin, and Kate Marvel. "Meteorological drivers of the low-cloud radiative feedback pattern effect and its uncertainty." Manuscript under review for Atmospheric Chemistry and Physics. [[Preprint]](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3177)
-
+#### 2026
+Tam, Rachel Yuen Sum, Timothy A. Myers, Mark D. Zelinka, Cristian Proistosescu, Yuan-Jen Lin, and Kate Marvel. "Meteorological drivers of the low-cloud radiative feedback pattern effect and its uncertainty." Accepted for Atmospheric Chemistry and Physics. [[Preprint]](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3177)
 #### 2025
 Lin, Yuan-Jen, Grégory V. Cesana, Cristian Proistosescu, Mark D. Zelinka, and Kyle C. Armour. "The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback." Journal of Climate 38, no. 2 (2025): 513-529. [https://doi.org/10.1175/JCLI-D-24-0014.1](https://doi.org/10.1175/JCLI-D-24-0014.1). [[Paper]](https://yuanjenlin.github.io/files/2025_Lin_etal.pdf) [[Poster, 2024 AGU Annual Meeting]](https://yuanjenlin.github.io/files/2024_AGU_meeting_poster.pdf) [[Talk, NCAR CGD Seminar]](https://youtu.be/oL6wBeSr64U?si=FRtpsDEVB7OmIkBT)
 #### 2023
