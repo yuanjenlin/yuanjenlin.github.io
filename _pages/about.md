@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a postdoctoral associate in the Department of Atmospheric and Oceanic Sciences, University of Colorado Boulder working with Aneesh Subramanian and Kristopher Karnauskas. I study air-sea interaction, oceanography, climate dynamics using observations and climate models of varying complexity (see my research scope below). Before coming to CU Boulder, I was a postdoctoral researcher at NASA GISS/Columbia University, where I led the GISS ModelE3 SST Green’s Function and studied cloud radiative feedback. I completed my PhD in Atmospheric Sciences at National Taiwan University with Yen-Ting Hwang and was a visiting PhD student at SUNY Albany for one year working with Brian Rose. During my PhD, I investigated how the ocean modulates the time evolution of climate feedback and the physical mechanisms driving changes in the Atlantic Meridional Overturning Circulation under a warmer climate.
 
-For more information, please see my full CV: [[View CV (last updated: Mar 2026)]](https://yuanjenlin.github.io/files/CV.pdf).
+For more information, please see my full CV: [[View CV (last updated: Aug 2026)]](https://yuanjenlin.github.io/files/CV.pdf).
 
 ### Research Scope
 ![Research Scope](./files/website_research_scope.png)
@@ -18,10 +18,12 @@ For more information, please see my full CV: [[View CV (last updated: Mar 2026)]
 ### Publications
 
 #### Under review
-Lin, Yuan-Jen, Aneesh C Subramanian, Kristopher B Karnauskas, Charlotte A DeMott, Janet Sprintall, and Rui Sun. "Salinity-driven barrier layer dynamics in the equatorial Pacific." Manuscript under review for Journal of Climate. [[Poster, 2025 AGU Annual Meeting]](https://yuanjenlin.github.io/files/2025_AGU_meeting_poster.pdf)
+Cesana, Grégory V., Yuan-Jen Lin, Jingbo Wu, Maxwell Kelley, Jasmine Remillard, George Tselioudis, Gavin A. Schmidt, Assia Arouf, Gregory Elsaesser, Andrew S. Ackerman, Susanne Bauer, Ye Cheng, Ann M. Fridlind, and Nicolas Nanou. "Improved representation of cloud properties and feedbacks in the NASA GISS-E3 climate model." Under review for Journal of Advances in Modeling Earth Systems (JAMES). [[Preprint]](https://doi.org/10.22541/essoar.15005381/v1)
 
 #### 2026
-Tam, Rachel Yuen Sum, Timothy A. Myers, Mark D. Zelinka, Cristian Proistosescu, Yuan-Jen Lin, and Kate Marvel. "Meteorological drivers of the low-cloud radiative feedback pattern effect and its uncertainty." Accepted for Atmospheric Chemistry and Physics. [[Preprint]](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3177)
+Lin, Yuan-Jen, Aneesh C Subramanian, Kristopher B Karnauskas, Charlotte A DeMott, Janet Sprintall, and Rui Sun. "Salinity-driven barrier layer dynamics in the equatorial Pacific." Accepted for Journal of Climate. [[Poster, 2025 AGU Annual Meeting]](https://yuanjenlin.github.io/files/2025_AGU_meeting_poster.pdf)
+
+Tam, Rachel Yuen Sum, Timothy A. Myers, Mark D. Zelinka, Cristian Proistosescu, Yuan-Jen Lin, and Kate Marvel. "Meteorological drivers of the low-cloud radiative feedback pattern effect and its uncertainty." Atmospheric Chemistry and Physics 26, no. 6 (2026): 4289-4311. [https://doi.org/10.5194/acp-26-4289-2026](https://doi.org/10.5194/acp-26-4289-2026)
 #### 2025
 Lin, Yuan-Jen, Grégory V. Cesana, Cristian Proistosescu, Mark D. Zelinka, and Kyle C. Armour. "The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback." Journal of Climate 38, no. 2 (2025): 513-529. [https://doi.org/10.1175/JCLI-D-24-0014.1](https://doi.org/10.1175/JCLI-D-24-0014.1). [[Paper]](https://yuanjenlin.github.io/files/2025_Lin_etal.pdf) [[Poster, 2024 AGU Annual Meeting]](https://yuanjenlin.github.io/files/2024_AGU_meeting_poster.pdf) [[Talk, NCAR CGD Seminar]](https://youtu.be/oL6wBeSr64U?si=FRtpsDEVB7OmIkBT)
 #### 2023
@@ -32,7 +34,7 @@ Lin, Yuan-Jen, Yen-Ting Hwang, Jian Lu, Fukai Liu, and Brian EJ Rose. "The domin
 Lin, Yuan-Jen, Yen-Ting Hwang, Paulo Ceppi, and Jonathan M. Gregory. "Uncertainty in the evolution of climate feedback traced to the strength of the Atlantic meridional overturning circulation." Geophysical Research Letters 46, no. 21 (2019): 12331-12339. [https://doi.org/10.1029/2019GL083084](https://doi.org/10.1029/2019GL083084). [[Paper]](https://yuanjenlin.github.io/files/2019_Lin_etal.pdf)
 
 #### In prep.
-Lin, Yuan-Jen, Aneesh C Subramanian, and Kristopher B Karnauskas. "Understanding shifts in Warm Pool Eastern Edge between observations and the SKRIPS regional coupled model."
+Lin, Yuan-Jen, Aneesh C Subramanian, Kristopher B Karnauskas, Charlotte A DeMott, Janet Sprintall, and Rui Sun. "The Temporal Evolution of the Warm and Fresh Pools in the Western Pacific during ENSO onset in 2023."
 
 Lin, Yuan-Jen, Grégory V. Cesana, Cristian Proistosescu, Yue Dong, and Kate Marvel. "Intermodel spread of radiative feedback patterns traced to regional surface warming using NASA GISS ModelE3 Green’s Function." [[Poster, 2024 CFMIP Meeting]](https://yuanjenlin.github.io/files/2024_CFMIP_meeting_poster.pdf)
 
